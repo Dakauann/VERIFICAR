@@ -27,6 +27,8 @@ const help1 = (prefix) => {
 ┣⊱❥ *snow <texto | texto>*
 ┣⊱❥ *firetext*
 
+"Alguns comandos off devido a quedas de apikey."
+
 ════════════════════
 * ✞ঔ𝐓𝐫𝐚𝐬𝐡ф𝐃𝐤 𝒐͢𝒇𝒄ꪶ↷💸* 💸💸
 *Digite dono para mais info*
