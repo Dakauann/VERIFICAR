@@ -3057,7 +3057,7 @@ break
 					break
 			    case 'owner':
                     client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-                    client.sendMessage(from, 'Ctt do meu dono ai, pfv n flode o chat wa.me/558',MessageType.text, { quoted: mek} )
+                    client.sendMessage(from, 'Ctt do meu dono ai, pfv n flode o chat wa.me/558494740630',MessageType.text, { quoted: mek} )
                     break
                 case 'fitnah':	
 				case 'fake':          
