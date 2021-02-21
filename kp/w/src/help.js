@@ -7,9 +7,9 @@ const help = (prefix) => {
 ╠➥ 𝐃𝐎𝐍𝐎: ✞ঔ𝐓𝐫𝐚𝐬𝐡ф𝐃𝐤 𝒐͢𝒇𝒄ꪶ↷💸
 ╠➥ *wa.me/+558494740630*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
-║
-╠══✪〘 NOVIDADES 〙✪══
-║
+
+╠══✪〘 Recém Atualiados〙✪══
+
 ║1 *${prefix}animecry*
 ║2 *${prefix}chentai [premium]*
 ║3 *${prefix}gcpf [premium]*
@@ -21,9 +21,9 @@ const help = (prefix) => {
 ║8 *${prefix}wame*
 ║9 *${prefix}spamcall*
 ║10 *${prefix}play (nome da msc)*
-║
+
 ╠══✪〘 MENU 〙✪══
-║
+
 ║11 *${prefix}figu*
 ║12 *${prefix}toimg*
 ║13 *${prefix}darkjokes (memes aleatórios)*
@@ -35,9 +35,9 @@ const help = (prefix) => {
 ║19 *${prefix}leens [na legenda]*
 ║20 *${prefix}wait [na legenda]*
 ║21 *${prefix}setprefix*
-║
+
 ╠══✪〘 OUTROS 〙✪══
-║
+
 ║22 *${prefix}linkgp*
 ║23 *${prefix}simih [1/0]*
 ║24 *${prefix}marcar*
@@ -70,9 +70,9 @@ const help = (prefix) => {
 ║51 *${prefix}marcar*
 ║52 *${prefix}marcar2*
 ║53 *${prefix}marcar3*
-║
+
 ╠══✪〘 IMAGENS 〙✪══
-║
+
 ║54 *${prefix}loli* [off]
 ║55 *${prefix}loli1*
 ║56 *${prefix}hentai*
@@ -95,21 +95,21 @@ const help = (prefix) => {
 ║73 *${prefix}canal*
 ║74 *${prefix}nsfwloli1*
 ║75 *${prefix}reislin*
-║
+
 ╠══✪〘 INTELIGÊNCIA IA 〙✪══
-║
+
 ║76 *${prefix}simih 1 (para ativar)*
 ║77 *${prefix}simih 0 (para desativar)*
 ║ *${prefix}simi (sua mensagem)*
-║
+
 ╠══✪〘 EM TESTE 〙✪══
-║
+
 ║78 *${prefix}*
 ║79 *${prefix}*
 ║80 *${prefix}*
-║
+
 ╠══✪〘 PREMIUM 〙✪══
-║
+
 ║81 *${prefix}dado*
 ║82 *${prefix}cekvip*
 ║83 *${prefix}premiumlist*
@@ -124,9 +124,9 @@ const help = (prefix) => {
 ║92 *${prefix}pack*
 ║93 *${prefix}destrava*
 ║94 *${prefix}gpessoa*
-║
+
 ╠══✪〘 GRUPO 〙✪══
-║
+
 ║95 *${prefix}banir*
 ║96 *${prefix}leveling [on/off]*
 ║97 *${prefix}level*
@@ -146,9 +146,9 @@ const help = (prefix) => {
 ║111 *${prefix}boanoite*
 ║112 *${prefix}setdesc*
 ║113 *${prefix}bug [sua mensagem]*
-║
+
 ╠══✪〘 ESPECIFICO DO BOT 〙✪══
-║
+
 ║114 *${prefix}bug [sua mensagem]*
 ║115 *${prefix}clonar [@]*
 ║116 *${prefix}dono*
@@ -161,9 +161,9 @@ const help = (prefix) => {
 ║123 *${prefix}pinterest (nome)*
 ║124 *${prefix}desligar (so para o dono)*
 ║125 *${prefix}timer*
-║
+
 ╠══✪〘 MAIS ALGUNS 〙✪══
-║
+
 ║126 *${prefix}neko*
 ║127 *${prefix}ttp [texto]*
 ║128 *${prefix}testime*
@@ -184,9 +184,9 @@ const help = (prefix) => {
 ║143 *${prefix}belle [img aleatórias]*
 ║144 *${prefix}pronomeneu [texto]*
 ║144 *${prefix}hobby*
-║
+
 ╠══✪〘 COMANDOS DE VOZ 〙✪══
-║
+
 ║145 *${prefix}ola*
 ║146 *${prefix}bv*
 ║147 *${prefix}tchau*
@@ -196,30 +196,28 @@ const help = (prefix) => {
 ║151 *${prefix}onich*
 ║152 *${prefix}beat1*
 ║153 *${prefix}glub*
-║
+
 ╠══✪〘 OUTROS /2 〙✪══
-║
+
 ║154 *${prefix}antilink [1/0]*
 ║155 *${prefix}brainly [pergunta]*
 ║156 *${prefix}antiracismo [on/off]*
 ║157 *${prefix}setnomebot*
 ║158 *${prefix}meme*
-║
+
 ╠══✪〘 INTERATIVOS 〙✪══
-║
 ╠══NOTA »
 ║Mandar a msg sem o prefixo
-╠════════════════════
-║
+╠═════════════════════✪
+
 ║159 *bah*
 ║160 *oii*
 ║161 *bv*
 ║162 *canta ai bot*
 ║163 *grita*
-║
-║
+
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
-║
+
 ║ *NOME: ✞ঔ𝐓𝐫𝐚𝐬𝐡ф𝐃𝐤 𝒐͢𝒇𝒄ꪶ↷💸*
 ║ *INSTA: Dakauann_cavalcante*
 ║ *WPP: wa.me/+558494740630*
