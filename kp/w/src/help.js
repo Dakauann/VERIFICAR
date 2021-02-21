@@ -225,7 +225,7 @@ const help = (prefix) => {
 ║
 ║  *SE TENTAR KIBAR JA SABE NEH 💸*
 ║  *"TrashфDkofc o mais brabo"*
-║
+║Como criar esse bot : https://youtu.be/1z9Izh-JBcI
 ║
 ╚═〘 𝙏𝙧𝙖𝙨𝙝ф𝘿𝙠𝘽𝙊𝙏 〙`
 }
