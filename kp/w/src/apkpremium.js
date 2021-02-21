@@ -1,6 +1,7 @@
+const apkpremium = (prefix) => {
 
-const apkpremium = () => {
-    return `
+	return `
+
 APKS PREMIUM BY TrashфDkOFC:
 
 🔥Netguard pro🔥
