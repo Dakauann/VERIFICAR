@@ -223,7 +223,11 @@ const help = (prefix) => {
 ║ *WPP: wa.me/+558494740630*
 ║ *YOUTUBE: https://youtu.be/jUmO1JcGlG4*
 ║
-║  *SE TENTAR KIBAR JA SABE NEH 💸*
+║ *CREDITOS DA BASE: ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔*
+║*YT:* https://youtube.com/channel/UCcNXUT8f4grmNxQCxiZX95Q:
+║*COMANDOS: 0 a 161*
+║
+║
 ║  *"TrashфDkofc o mais brabo"*
 ║Como criar esse bot : https://youtu.be/1z9Izh-JBcI
 ║
